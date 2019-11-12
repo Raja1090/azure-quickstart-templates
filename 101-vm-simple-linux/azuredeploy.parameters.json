@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "azure"
     },
     "adminPasswordOrKey": {
-      "value": "GEN-SSH-PUB-KEY"
+      "value": "Azurevm.1090@e"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "general"
     }
   }
 }
